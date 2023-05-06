@@ -1,6 +1,6 @@
 # CRUD-BackEnd
 
-## The node_modules is not included
+## node_modules not included
 
 Here's the link
 https://www.youtube.com/watch?v=DihOP19LQdg
